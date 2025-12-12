@@ -22,13 +22,18 @@ Tested in Windows 10.
 
 > pip install requests beautifulsoup4 pillow
 
-### To use:
+## To use:
 
 Just download the release and extract in a subfolder.
 
 Then just run 'gelbooruratiodl_run.bat' or run the .py itself manually in CMD.
 
 You'll be prompted first for the character/anime tags, then if you want NSFW results with yes/no and animated content.
+
+## There are two other versions of the script:
+
+- Downloads folder simple: If the tags you entered are too long, it'll not name a folder Downlods_"tags" and instead just in a simple Downloads folder.
+- Download all images: As the name implies, just gets all images for your chosen tag(s).
 
 # How and what the program does:
 
